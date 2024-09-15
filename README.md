@@ -15,6 +15,7 @@ Arket kan ikke nødvendigvis behandle tidligere eller ældre versioner, da teame
 ![Resultat ark](https://github.com/LHFriis/Indledende-LCAbyg-KS/assets/166735139/f837b471-da9b-4ccd-aab4-33fb494616e1)
 
 
+
 # Indledende-LCAbyg-KS V2
 #### Ny funktionalitet til analyse af bygningsdele og konstruktioners udledning
 
